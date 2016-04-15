@@ -1,5 +1,6 @@
-cxf-wsdl-first
+cxf-wsdl-first based on the work of bluezio => https://github.com/bluezio/cxf-wsdl-first
 ==============
+
 
 This is a simple example project that shows how to build a WSDL-first Web Service using Maven, CXF and Spring.
 
